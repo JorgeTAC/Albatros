@@ -1,5 +1,5 @@
 import SubSection1 from './SubSection1';
-import SubSection2 from './SubSection2';
+import SubSection2 from './Subsection2';
 
 const Section1 = () => {
     return (

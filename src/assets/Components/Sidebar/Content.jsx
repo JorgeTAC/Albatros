@@ -1,4 +1,4 @@
-import React from 'react';
+
 import Main from './main';
 import Sidebar from './Sidebar';
 

@@ -1,5 +1,5 @@
-import React from 'react';
-import SubSection3 from './SubSection3';
+
+import SubSection3 from "./Subsection3";
 
 const Section2 = () => {
     return (
